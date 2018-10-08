@@ -16,3 +16,4 @@ public:
 	int getLineIndex();
 	void moveDown();
 };
+
